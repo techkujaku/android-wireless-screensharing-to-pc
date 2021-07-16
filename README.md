@@ -6,7 +6,7 @@
 * Example: the extracted folder is located in D, type the following commands:
 ![image](https://user-images.githubusercontent.com/87014174/125895658-9d5d4f30-9e42-49a0-a090-057cb531c03c.png)
 
-* Connect android devices to pc via UBS
+* Connect android devices to pc via USB
 * A pop up will appear on android phone. select transfer files
 * Turn on [developer options](https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/) on android 
 * Scroll down and turn on USB debugging mode
