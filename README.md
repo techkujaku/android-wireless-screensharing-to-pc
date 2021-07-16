@@ -20,6 +20,7 @@
    ```
 * Type adb connect 192.168.1.177
 * Before removing the usb check that "Allow ADB debugging in charge only mode" is enable. This is required on some devices like Huawei phones.
+* 
 *![image](https://user-images.githubusercontent.com/87014174/125895299-474b8349-6105-4ecf-b5df-d94be476f6d8.png)
 
 * Remove the usb cable. Toggle USB debugging OFF and ON again
@@ -29,6 +30,7 @@
 List of devices attached
 192.168.1.177:5555      device
 ```
-  This shows that device is successfully connected online
+  This shows that device is successfully connected online. 
+ * If device is constantly offline type adb kill-server and repeat from #Connect android devices to pc via USB
  
- * Type scrcpy
+ * Type scrcpy and a window will appear on your desktop. You might need 
