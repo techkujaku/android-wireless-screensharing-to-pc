@@ -5,7 +5,7 @@
 * Open command prompt and CD in the directory of the extactd folder
 * Connect android devices to pc via UBS
 * A pop up will appear on android phone. select transfer files
-* Turn on developer options on android 
+* Turn on [developer options](https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/) on android 
 * Scroll down and turn on USB debugging mode
 * Allow USB debugging. Click on always allow on this computer to avoid clicking on this popup everytime usb is connected
 * Type adb devices in command prompt to see if List of devices attached shows connected device
