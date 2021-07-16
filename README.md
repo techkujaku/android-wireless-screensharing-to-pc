@@ -3,6 +3,9 @@
 * Download [Windows version](https://github.com/Genymobile/scrcpy/releases/download/v1.18/scrcpy-win64-v1.18.zip) from [scrcpy github](https://github.com/Genymobile/scrcpy)
 * Extract the folder to your pc
 * Open command prompt and CD in the directory of the extactd folder
+* Example: the extracted folder is located in D, type the following commands:
+* ![image](https://user-images.githubusercontent.com/87014174/125895598-ee66a2d1-cf2a-4e57-bae1-18b4f64c1c2f.png)
+
 * Connect android devices to pc via UBS
 * A pop up will appear on android phone. select transfer files
 * Turn on [developer options](https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/) on android 
