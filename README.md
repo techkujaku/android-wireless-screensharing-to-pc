@@ -20,7 +20,7 @@
   ```
   192.168.1.0/24 dev wlan0 proto kernel scope link src 192.168.1.177<--- This is your connected device ip
    ```
-* Type adb connect 192.168.1.177
+* Type adb connect 192.168.1.177. NOTE: There is a possibility this would not work if you are connected via Corporate VPN. This is obvious when your device is conected to the network but you are unable to ping the device ip from you pc. Disconnect your VPN first before proceeding
 * Before removing the usb check that "Allow ADB debugging in charge only mode" is enable. This is required on some devices like Huawei phones.
 * 
 *![image](https://user-images.githubusercontent.com/87014174/125895299-474b8349-6105-4ecf-b5df-d94be476f6d8.png)
