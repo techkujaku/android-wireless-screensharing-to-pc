@@ -31,6 +31,6 @@ List of devices attached
 192.168.1.177:5555      device
 ```
   This shows that device is successfully connected online. 
- * If device is constantly offline type adb kill-server and repeat from (#Connect android devices to pc via USB)
+ * If device is constantly offline type adb kill-server and repeat from (#Connect-android-devices-to-pc-via-USB)
  
  * Type scrcpy and a window will appear on your desktop. You might need 
