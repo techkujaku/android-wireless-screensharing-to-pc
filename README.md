@@ -4,7 +4,7 @@
 * Extract the folder to your pc
 * Open command prompt and CD in the directory of the extactd folder
 * Example: the extracted folder is located in D, type the following commands:
-* ![image](https://user-images.githubusercontent.com/87014174/125895598-ee66a2d1-cf2a-4e57-bae1-18b4f64c1c2f.png)
+![image](https://user-images.githubusercontent.com/87014174/125895658-9d5d4f30-9e42-49a0-a090-057cb531c03c.png)
 
 * Connect android devices to pc via UBS
 * A pop up will appear on android phone. select transfer files
